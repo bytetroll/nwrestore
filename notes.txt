@@ -1,0 +1,8 @@
+1. Connect to KiteWorks
+2. Search for Customer using KiteWorks API
+3. Get folder for KiteWorks customer.
+4. Get file list for KiteWorks client.
+6. Download most recent file (usually .db bak file for customer).
+7. Connect to SQL database server (within network).
+8. Restore the database with a set name.
+9. Run the SQL sanitize script on the database.
